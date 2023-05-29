@@ -23,6 +23,8 @@ This is a Python application that solves the Traveling Salesman Problem (TSP) us
   - tqdm
   - tkinter (for the GUI version)
 
+## Note
+The ExE version of app you can find it in "dist" folder
 ## Usage
 
 1. Install the required packages using `pip install itertools random time psutil tqdm tkinter`.
